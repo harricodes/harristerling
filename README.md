@@ -2,7 +2,7 @@
 - 👀 I’m interested in Javascript and AI
 - 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on any Javascript Project
-- 📫 How to reach me - at harrisonnjeru7`2gmail.com
+- 📫 How to reach me - at harrisonnjeru7@2gmail.com
 
 <!---
 harristerling/harristerling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
